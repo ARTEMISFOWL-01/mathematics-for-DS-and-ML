@@ -1,2 +1,2 @@
-## mathematics-for-DS-and-AI
-graded assignment of each week
+## Mathematics-for-DS-and-AI
+Graded assignment of each week
